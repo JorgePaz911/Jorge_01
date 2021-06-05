@@ -19,3 +19,4 @@ public class RectangleTest {
         System.out.println("Area: " + rectangle2.area());
     }
 }
+
